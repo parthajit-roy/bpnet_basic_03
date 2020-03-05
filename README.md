@@ -19,7 +19,7 @@ This program is for finding the base-pair network In RNAs.
      
      -outformat=new/old (default new)
      
-     -ovlpcutoff=20.0 for non-base pair overlap cutoff value
+     -ovlpcutoff=20.0 for non-base pair overlap cutoff value (it excludes overlap value greater than 20.0. It ignores overlap value for base-pairs. i.e., if a base pair found, it ignores the overlap value).
      
      -adj=true for creation of adjacency matrix. Default false
 
