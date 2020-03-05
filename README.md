@@ -42,7 +42,8 @@ DATA   225   423     A:U-w:sT     0.40 T:T BP   236   0   434   0   A   U
 TER
 
 The columns are 
-data    corid corid    bptype      eval dat:dat type cifid chn cif  chn  res res 
+
+Tag    corid corid    bptype      eval dat:dat type cifid chn cif  chn  res res 
 
 type is BP for base-pair OL for overlap.
 
